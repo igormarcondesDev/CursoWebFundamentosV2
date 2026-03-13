@@ -317,6 +317,17 @@ h1 {
     color: var(--claro);
 }
 
+/* ================= REPOSITORIOS GITHUB ================= */
+.ver-mais-texto a {
+    color: #4078c0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.ver-mais-texto a:hover {
+    text-decoration: underline;
+}
+
 /* ================= HABILIDADES ================= */
 .skills-container {
     display: flex;
