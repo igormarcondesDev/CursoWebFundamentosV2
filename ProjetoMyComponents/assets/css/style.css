@@ -288,3 +288,7 @@ select {
 .table-verticalLines th:not(:last-child) {
     border-right: 1px solid var(--secondary-color-dark);
 }
+
+.form-quiz {
+    width: calc(50% - var(--default-gap) / 2);
+}
