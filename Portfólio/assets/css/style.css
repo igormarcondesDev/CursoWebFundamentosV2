@@ -154,7 +154,7 @@ h1 {
     border: 1px solid var(--vidro);
     transition: 0.4s;
 
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
 }
@@ -200,7 +200,7 @@ h1 {
 
 .projeto-info {
     flex: 1;
-    padding: 16px;
+    padding: 12px;
     background: #0b1020;
 
     display: flex;
